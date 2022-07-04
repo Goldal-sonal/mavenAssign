@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="22657" started-at="2022-07-04T16:16:27Z" finished-at="2022-07-04T16:16:50Z">
+  <suite name="Suite" duration-ms="22785" started-at="2022-07-04T16:42:28Z" finished-at="2022-07-04T16:42:51Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="22657" started-at="2022-07-04T16:16:27Z" finished-at="2022-07-04T16:16:50Z">
+    <test name="Test" duration-ms="22785" started-at="2022-07-04T16:42:28Z" finished-at="2022-07-04T16:42:51Z">
       <class name="mavenAssignmt.Class1">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenAssignmt.Class1@14acaea5]" name="beforeTest" is-config="true" duration-ms="10064" started-at="2022-07-04T16:16:27Z" finished-at="2022-07-04T16:16:38Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenAssignmt.Class1@14acaea5]" name="beforeTest" is-config="true" duration-ms="10166" started-at="2022-07-04T16:42:28Z" finished-at="2022-07-04T16:42:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="multiplication()[pri:1, instance:mavenAssignmt.Class1@14acaea5]" name="multiplication" duration-ms="2733" started-at="2022-07-04T16:16:38Z" finished-at="2022-07-04T16:16:40Z">
+        <test-method status="PASS" signature="multiplication()[pri:1, instance:mavenAssignmt.Class1@14acaea5]" name="multiplication" duration-ms="2742" started-at="2022-07-04T16:42:38Z" finished-at="2022-07-04T16:42:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- multiplication -->
-        <test-method status="PASS" signature="division()[pri:2, instance:mavenAssignmt.Class1@14acaea5]" name="division" duration-ms="2617" started-at="2022-07-04T16:16:40Z" finished-at="2022-07-04T16:16:43Z">
+        <test-method status="PASS" signature="division()[pri:2, instance:mavenAssignmt.Class1@14acaea5]" name="division" duration-ms="2613" started-at="2022-07-04T16:42:41Z" finished-at="2022-07-04T16:42:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- division -->
-        <test-method status="PASS" signature="addition()[pri:3, instance:mavenAssignmt.Class1@14acaea5]" name="addition" duration-ms="2911" started-at="2022-07-04T16:16:43Z" finished-at="2022-07-04T16:16:46Z">
+        <test-method status="PASS" signature="addition()[pri:3, instance:mavenAssignmt.Class1@14acaea5]" name="addition" duration-ms="2981" started-at="2022-07-04T16:42:44Z" finished-at="2022-07-04T16:42:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addition -->
-        <test-method status="PASS" signature="substraction()[pri:4, instance:mavenAssignmt.Class1@14acaea5]" name="substraction" duration-ms="3036" started-at="2022-07-04T16:16:46Z" finished-at="2022-07-04T16:16:49Z">
+        <test-method status="PASS" signature="substraction()[pri:4, instance:mavenAssignmt.Class1@14acaea5]" name="substraction" duration-ms="3028" started-at="2022-07-04T16:42:47Z" finished-at="2022-07-04T16:42:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- substraction -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenAssignmt.Class1@14acaea5]" name="afterTest" is-config="true" duration-ms="1256" started-at="2022-07-04T16:16:49Z" finished-at="2022-07-04T16:16:50Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenAssignmt.Class1@14acaea5]" name="afterTest" is-config="true" duration-ms="1231" started-at="2022-07-04T16:42:50Z" finished-at="2022-07-04T16:42:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
