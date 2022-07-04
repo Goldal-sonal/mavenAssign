@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22588" started-at="2022-07-04T13:35:36Z" finished-at="2022-07-04T13:35:58Z">
+  <suite name="Suite" duration-ms="22522" started-at="2022-07-04T14:17:10Z" finished-at="2022-07-04T14:17:33Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22588" started-at="2022-07-04T13:35:36Z" finished-at="2022-07-04T13:35:58Z">
-      <class name="mavenAssignmt.Class2">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenAssignmt.Class2@46d56d67]" name="beforeTest" is-config="true" duration-ms="9832" started-at="2022-07-04T13:35:36Z" finished-at="2022-07-04T13:35:46Z">
+    <test name="Test" duration-ms="22522" started-at="2022-07-04T14:17:10Z" finished-at="2022-07-04T14:17:33Z">
+      <class name="mavenAssignmt.Class1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenAssignmt.Class1@14acaea5]" name="beforeTest" is-config="true" duration-ms="9719" started-at="2022-07-04T14:17:10Z" finished-at="2022-07-04T14:17:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="multiplication()[pri:1, instance:mavenAssignmt.Class2@46d56d67]" name="multiplication" duration-ms="2726" started-at="2022-07-04T13:35:46Z" finished-at="2022-07-04T13:35:48Z">
+        <test-method status="PASS" signature="multiplication()[pri:1, instance:mavenAssignmt.Class1@14acaea5]" name="multiplication" duration-ms="2767" started-at="2022-07-04T14:17:20Z" finished-at="2022-07-04T14:17:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- multiplication -->
-        <test-method status="PASS" signature="division()[pri:2, instance:mavenAssignmt.Class2@46d56d67]" name="division" duration-ms="2658" started-at="2022-07-04T13:35:48Z" finished-at="2022-07-04T13:35:51Z">
+        <test-method status="PASS" signature="division()[pri:2, instance:mavenAssignmt.Class1@14acaea5]" name="division" duration-ms="2658" started-at="2022-07-04T14:17:23Z" finished-at="2022-07-04T14:17:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- division -->
-        <test-method status="PASS" signature="addition()[pri:3, instance:mavenAssignmt.Class2@46d56d67]" name="addition" duration-ms="2930" started-at="2022-07-04T13:35:51Z" finished-at="2022-07-04T13:35:54Z">
+        <test-method status="PASS" signature="addition()[pri:3, instance:mavenAssignmt.Class1@14acaea5]" name="addition" duration-ms="2981" started-at="2022-07-04T14:17:25Z" finished-at="2022-07-04T14:17:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addition -->
-        <test-method status="PASS" signature="substraction()[pri:4, instance:mavenAssignmt.Class2@46d56d67]" name="substraction" duration-ms="3113" started-at="2022-07-04T13:35:54Z" finished-at="2022-07-04T13:35:57Z">
+        <test-method status="PASS" signature="substraction()[pri:4, instance:mavenAssignmt.Class1@14acaea5]" name="substraction" duration-ms="3097" started-at="2022-07-04T14:17:28Z" finished-at="2022-07-04T14:17:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- substraction -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenAssignmt.Class2@46d56d67]" name="afterTest" is-config="true" duration-ms="1289" started-at="2022-07-04T13:35:57Z" finished-at="2022-07-04T13:35:58Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenAssignmt.Class1@14acaea5]" name="afterTest" is-config="true" duration-ms="1266" started-at="2022-07-04T14:17:31Z" finished-at="2022-07-04T14:17:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-      </class> <!-- mavenAssignmt.Class2 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- mavenAssignmt.Class1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

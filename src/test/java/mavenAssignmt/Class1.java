@@ -7,9 +7,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
    
- 
+  
 	public class Class1
-	
+	 
 	{
 		 String baseUrl="https://www.calculator.net/";
 		 String driverPath="D:\\selenium\\selenium workspace\\Maven_Assignment\\chromedriver.exe";
